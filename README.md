@@ -2,6 +2,7 @@
 
 ## Notes:
 - Implemented Express
+- Implemented middlewares
 - Implemented Jest
 - Tested before deployment
 - Deployed on heroku
