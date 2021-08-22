@@ -1,5 +1,6 @@
 # basic-express-server
 
+![flow](./lab2.png)
 ## Notes:
 - Implemented Express
 - Implemented middlewares
